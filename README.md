@@ -61,17 +61,15 @@ ENCFF169TIB | 28221235	 | 914798 (3.24%) | 3600159 (12.76%) | 23706278 (84.00%) 
 
 # Сравнение результатов
 Диаграммы Венна:
-
-[Intervene_venn.pdf](https://github.com/YanaAbdusheva/hse_hw2_chip/files/8164913/Intervene_venn.pdf)
-
-[Intervene_venn (1).pdf](https://github.com/YanaAbdusheva/hse_hw2_chip/files/8164918/Intervene_venn.1.pdf)
+![1](https://user-images.githubusercontent.com/93256219/156253754-7436dea5-ed73-49c4-b79f-09d6085c9aa0.png)
+![2](https://user-images.githubusercontent.com/93256219/156253763-0aa4ee3c-54fd-4a64-b527-a427289f08d9.png)
 
 
-[Intervene_venn (4).pdf](https://github.com/YanaAbdusheva/hse_hw2_chip/files/8164920/Intervene_venn.4.pdf)
+![3](https://user-images.githubusercontent.com/93256219/156253807-efff4b1d-a5b6-4707-a428-1c94143ab132.png)
+![4](https://user-images.githubusercontent.com/93256219/156253811-1c95c0ea-61cb-4013-abfc-7c7076b50b79.png)
 
-[Intervene_venn (5).pdf](https://github.com/YanaAbdusheva/hse_hw2_chip/files/8164921/Intervene_venn.5.pdf)
-
-Как можно объяснить различия в количестве пересечений?
+Как можно объяснить различия в количестве пересечений? 
+- Различий нет
 
 
 
