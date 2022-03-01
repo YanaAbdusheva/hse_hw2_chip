@@ -29,3 +29,7 @@
 ## ENCFF169TIB.fastq
 Для данного чтения подрезания не потребовалось 
 ![TIB_OK](https://user-images.githubusercontent.com/93256219/156245677-ffea3fb8-1446-4c02-ab2b-73282822b50c.png)
+
+# Анализ выдачи bowtie
+
+
