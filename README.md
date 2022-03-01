@@ -1,19 +1,28 @@
 # hse_hw2_chip
-Для выполнения задания была выбрана клеточная линия - **MM.1S**, гистоновая метка - **H3K4me3**
+Для выполнения задания была выбрана клеточная линия - **MM.1S**, гистоновая метка - **H3K4me3** (ссылка https://www.encodeproject.org/experiments/ENCSR361FWQ/)
+
+Реплика 1: ENCFF575KIT 
+Реплика 2: ENCFF755VRL
+Контроль:  ENCFF169TIB 
 
 Ссылка на Colab: https://colab.research.google.com/drive/1y4ONIeQsVcQudiZxSL2GHYDNPa0wTarx?usp=sharing
 
 # Анализ Fastq
 ## ENCFF575KIT.fastq
-Для данного чтения было проведено подрезание с использованием trimmomatic
+Исходя из графиков Per base sequence quality и Per tile sequence quality (отмечены как непрошедшие проверку качества), для данного чтения было необходимо проведение подрезания (с использованием trimmomatic)
 
 До:
 
+![КИТ_ДО_БЭСИК](https://user-images.githubusercontent.com/93256219/156249047-92f6e6b1-5d23-45d1-966e-2dcb7b28ae6e.png)
 ![KIT_до](https://user-images.githubusercontent.com/93256219/156245397-3abd3916-0c0e-4688-b0ee-2129988b3801.png)
+![КИТ_до_тиле](https://user-images.githubusercontent.com/93256219/156249131-c9c3823a-fdd6-4b43-9cb1-6faac7fb5419.png)
 
-После: 
 
+После (ситуация улучшилась): 
+
+![КИТ_ПОСЛЕ_БЭСИК](https://user-images.githubusercontent.com/93256219/156249159-3578f703-53f4-42d7-aed7-2471cc632077.png)
 ![KIT_после](https://user-images.githubusercontent.com/93256219/156245443-ea64cbe6-df20-4561-9972-fa3adf761a58.png)
+![КИТ_после_тиле](https://user-images.githubusercontent.com/93256219/156249259-7c475036-c937-470d-906b-07d121eb72af.png)
 
 ## ENCFF755VRL.fastq
 Для данного чтения также было проведено подрезание с использованием trimmomatic
